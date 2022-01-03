@@ -77,7 +77,7 @@ public class AbstractTransaction<C> {
     private List<Url> urls;
     @SerializedName("links")
     private List<Link> links;
-    @SerializedName("Brand")
+    @SerializedName("brand")
     private Brand brand;
 
     public Brand getBrand() {
