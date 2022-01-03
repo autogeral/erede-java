@@ -1,7 +1,7 @@
 # SDK Java
 
-SDK de integração eRede urilizado no Ecommerce para autorizar transações e usada no WS para os Cancelamentos das mesmas.
-Projeto forkado para a utilização da SDK rodando com a versão da JDK 1.8, e não 11 como foi feito o projeto inicialmente. 
+SDK de integração eRede utilizado no Ecommerce para autorizar transações e usada no WS para os Cancelamentos das mesmas.
+Projeto forkado para a utilização da SDK rodando com a versão da JDK 1.8, e não 11 como foi feito no projeto inicial. 
 
 # Utilizando
 
