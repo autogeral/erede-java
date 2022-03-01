@@ -77,16 +77,6 @@ public class AbstractTransaction<C> {
     private List<Url> urls;
     @SerializedName("links")
     private List<Link> links;
-    @SerializedName("brand")
-    private Brand brand;
-
-    public Brand getBrand() {
-        return brand;
-    }
-
-    public void setBrand(Brand brand) {
-        this.brand = brand;
-    }
 
     private void prepareUrls() {
         if (urls == null) {
